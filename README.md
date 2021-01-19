@@ -39,7 +39,7 @@ I use these templates to get me (re-)started, given some context from my prior w
 
  ## Prescriptive analytics
 
-- [Business location analysis](https://github.com/prav-nak/WarehouseLocation)
+- [Business location analysis](https://github.com/prav-nak/pub_WarehouseLocation)
 - [Dynamic network flows]
 
 ## Wave propagation
