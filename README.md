@@ -20,7 +20,7 @@ I use these templates to get me (re-)started, given some context from my prior w
 
 ## Numerical methods
 
-- [Tiny C++ library for matrix algebra](https://github.com/prav-nak/Matrix_library.git)
+- [Tiny C++ library for matrix algebra](https://github.com/prav-nak/pub_Matrix_library.git)
 - [Forward automatic differentiation using dual arithmetic](https://github.com/prav-nak/forward-ad)
 - [Reverse mode automatic differentiation](https://github.com/prav-nak/reverse-ad)
 - [Interval arithmetic](https://github.com/prav-nak/interval-arithmetic)
