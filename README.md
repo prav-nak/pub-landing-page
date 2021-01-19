@@ -22,13 +22,13 @@ I use these templates to get me (re-)started, given some context from my prior w
 
 - [Tiny C++ library for matrix algebra](https://github.com/prav-nak/pub_Matrix_library.git)
 - [Forward automatic differentiation using dual arithmetic](https://github.com/prav-nak/pub_forward-ad)
-- [Reverse mode automatic differentiation](https://github.com/prav-nak/reverse-ad)
+- [Reverse mode automatic differentiation](https://github.com/prav-nak/pub_reverse_ad)
 - [Interval arithmetic](https://github.com/prav-nak/interval-arithmetic)
 
 ## Programming languages
 ### Cpp
 
-- [Lazy evaluation in C++ using Expression templates](https://github.com/prav-nak/expression_templates)
+- [Lazy evaluation in C++ using Expression templates](https://github.com/prav-nak/pub_expression_templates)
 
 ### Python utilities
 
