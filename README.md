@@ -35,7 +35,7 @@ I use these templates to get me (re-)started, given some context from my prior w
 - Master-Slave job management
   - [Job management using master slave configuration]
 - Symbolic math
-  - [Arithmetic operations with custom objects using symbolic expressions](https://github.com/prav-nak/symbolic_python)
+  - [Arithmetic operations with custom objects using symbolic expressions](https://github.com/prav-nak/pub_symbolic_python)
 
  ## Prescriptive analytics
 
