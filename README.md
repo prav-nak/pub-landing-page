@@ -65,7 +65,7 @@ I use these templates to get me (re-)started, given some context from my prior w
 
 - [Git guts](https://github.com/prav-nak/git_flashcards)
 - [DevEnv using docker](https://github.com/prav-nak/docker_tutorial)
-- [Dockerfile for prescriptive analytics with optimization solvers (pyomo, glpk, anaconda)](https://github.com/prav-nak/pyomo_docker)
+- [Dockerfile for prescriptive analytics with optimization solvers (pyomo, glpk, anaconda)](https://github.com/prav-nak/pub_pyomo_docker)
 - [Multicontainer docker app using docker-compose](https://github.com/prav-nak/docker_compose)
 - [Containerized vscode development environment](https://github.com/prav-nak/vscode_docker)
 
