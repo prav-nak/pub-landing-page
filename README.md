@@ -55,11 +55,10 @@ I use these templates to get me (re-)started, given some context from my prior w
 
 ![ML](ML.png)
 
-- [Deep learning]()
-- [Bayesian methods]()
-- [Natural language processing]()
-- [Computer vision]()
-- [Reinforcement learning]()
+- Deep learning
+- Bayesian methods
+- Natural language processing
+- Computer vision
 
 ## Back end development
 
